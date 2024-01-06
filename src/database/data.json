@@ -1,0 +1,512 @@
+{
+  "products": [
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "WD 1.5TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 64,
+      "description": "WD 1.5TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 11,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 12,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 13,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 14,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": 15,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": 16,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": 17,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": 19,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 20,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    }
+  ],
+  "photoData": [
+    {
+      "url": "../../public/tech/8.png",
+      "description": "Smart Watches",
+      "id": "1",
+      "discount": "-25%"
+    },
+    {
+      "url": "../../public/tech/7.png",
+      "description": "Laptops",
+      "id": "2",
+      "discount": "-18%"
+    },
+    {
+      "url": "../../public/tech/6.png",
+      "description": "Cameras",
+      "id": "3",
+      "discount": "-30%"
+    },
+    {
+      "url": "../../public/tech/5.png",
+      "description": "Headphones",
+      "id": "4",
+      "discount": "-10%"
+    },
+    {
+      "url": "../../public/tech/4.png",
+      "description": "Phones",
+      "id": "5",
+      "discount": "-15%"
+    }
+  ],
+  "photoDataAr": [
+    {
+      "url": "../../public/tech/8.png",
+      "description": "ساعات ذكيه",
+      "id": "1",
+      "discount": "-25%"
+    },
+    {
+      "url": "../../public/tech/7.png",
+      "description": "لابتوب",
+      "id": "2",
+      "discount": "-18%"
+    },
+    {
+      "url": "../../public/tech/6.png",
+      "description": "كاميرا",
+      "id": "3",
+      "discount": "-30%"
+    },
+    {
+      "url": "../../public/tech/5.png",
+      "description": "سماعات",
+      "id": "4",
+      "discount": "-10%"
+    },
+    {
+      "url": "../../public/tech/4.png",
+      "description": "هواتف",
+      "id": "5",
+      "discount": "-15%"
+    }
+  ],
+  "home": [
+    {
+      "id": "1",
+      "name": "sofa chairs",
+      "price": "120 USD",
+      "url": "../../public/interior/1.png"
+    },
+    {
+      "id": "2",
+      "name": "chairs",
+      "price": "120 USD",
+      "url": "../../public/interior/2.png"
+    },
+    {
+      "id": "3",
+      "name": "sofa chairs",
+      "price": "120 USD",
+      "url": "../../public/interior/3.png"
+    },
+    {
+      "id": "4",
+      "name": "tree",
+      "price": "120 USD",
+      "url": "../../public/interior/4.png"
+    }
+  ],
+  "homecol-2": [
+    {
+      "id": "1",
+      "name": "mattress",
+      "price": "50 USD",
+      "url": "../../public/interior/5.png"
+    },
+    {
+      "id": "2",
+      "name": "lamp ",
+      "price": "120 USD",
+      "url": "../../public/interior/6.png"
+    },
+    {
+      "id": "3",
+      "name": "sofa chairs",
+      "price": "120 USD",
+      "url": "../../public/interior/7.png"
+    },
+    {
+      "id": "4",
+      "name": "tree",
+      "price": "120 USD",
+      "url": "../../public/interior/8.png"
+    }
+  ],
+  "homeAr": [
+    {
+      "id": "1",
+      "name": "كرسي قطن",
+      "price": "120 USD",
+      "url": "../../public/interior/1.png"
+    },
+    {
+      "id": "2",
+      "name": "كرسي",
+      "price": "120 USD",
+      "url": "../../public/interior/2.png"
+    },
+    {
+      "id": "3",
+      "name": "فخار",
+      "price": "120 USD",
+      "url": "../../public/interior/3.png"
+    },
+    {
+      "id": "4",
+      "name": "شجر",
+      "price": "120 USD",
+      "url": "../../public/interior/4.png"
+    }
+  ],
+  "homecol-2Ar": [
+    {
+      "id": "1",
+      "name": "مراتب",
+      "price": "120 USD",
+      "url": "../../public/interior/5.png"
+    },
+    {
+      "id": "2",
+      "name": "كرسي",
+      "price": "120 USD",
+      "url": "../../public/interior/6.png"
+    },
+    {
+      "id": "3",
+      "name": "لمبه",
+      "price": "120 USD",
+      "url": "../../public/interior/7.png"
+    },
+    {
+      "id": "4",
+      "name": "شجر",
+      "price": "120 USD",
+      "url": "../../public/interior/8.png"
+    }
+  ],
+  "Recommded": [
+    {
+      "id": 15,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": 16,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": 17,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    }
+  ],
+  "productsAr": [
+    {
+      "id": 8,
+      "title": "بومة مثقوبة مطلية بالذهب الوردي من الفولاذ المقاوم للصدأ مزدوج",
+      "price": 10.99,
+      "description": "الذهب مطلي مزدوج متوهج الأقراط التوصيل النفق. مصنوعة من الفولاذ المقاوم للصدأ 316L",
+      "category": "مجوهرات",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "يعمل محرك الألعاب WD سعة 1.5 تيرابايت مع محرك الأقراص الصلبة الخارجي المحمول لجهاز Playstation 4",
+      "price": 64,
+      "description": "WD 1.5TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "category": "إلكترونيات",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 11,
+      "title": "سيليكون باور 256 جيجا اس اس دي 3D NAND A55 SLC ذاكرة تخزين مؤقت تعزيز الأداء SATA III 2.5",
+      "price": 109,
+      "description": "يتم تطبيق فلاش NAND ثلاثي الأبعاد لتوفير سرعات نقل عالية، سرعات نقل ملحوظة تتيح تشغيل أسرع وتحسين الأداء العام للنظام. تتيح تقنية SLC Cache المتقدمة تعزيز الأداء وعمرًا أطول، وتصميم نحيف مقاس 7 مم مناسب لأجهزة Ultrabooks وأجهزة الكمبيوتر المحمولة فائقة النحافة. يدعم أمر TRIM، وتقنية تجميع البيانات المهملة، وRAID، وECC (فحص الأخطاء وتصحيحها) لتوفير الأداء الأمثل والموثوقية المحسنة.",
+      "category": "إلكترونيات",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 12,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "إلكترونيات",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 13,
+      "title": "شاشة Acer SB220Q bi مقاس 21.5 بوصة عالية الدقة بالكامل (1920 × 1080) IPS فائقة النحافة",
+      "price": 599,
+      "description": "شاشة IPS عريضة مقاس 21.5 بوصة عالية الدقة (1920 × 1080) وتقنية Radeon Free Sync. لا يوجد توافق مع معدل تحديث VESA Mount: 75 هرتز - استخدام منفذ HDMI تصميم بدون إطار | رقيقة جدا | زمن الاستجابة 4 مللي ثانية | نسبة العرض إلى الارتفاع للوحة IPS - 16: 9. الألوان المدعومة - 16.7 مليون لون. السطوع - 250 شمعة في المتر المربع، زاوية الميل -5 درجة إلى 15 درجة. زاوية الرؤية الأفقية-178 درجة. زاوية الرؤية العمودية - 178 درجة 75 هرتز",
+      "category": "إلكترونيات",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 14,
+      "title": "شاشة سامسونج المنحنية للألعاب مقاس 49 بوصة CHG90 وسرعة 144 هرتز (LC49HG90DMNXZA) - شاشة QLED فائقة الاتساع ",
+      "price": 999.99,
+      "description": "شاشة ألعاب منحنية 49 بوصة فائقة العرض 32:9 مع شاشة مزدوجة مقاس 27 بوصة جنبًا إلى جنب، تقنية QUANTUM DOT (QLED)، ودعم HDR ومعايرة المصنع توفر ألوانًا وتباينًا واقعيًا ودقيقًا بشكل مذهل، ومعدل تحديث عالٍ يبلغ 144 هرتز ووقت استجابة فائق السرعة يبلغ 1 مللي ثانية للعمل القضاء على ضبابية الحركة والظلال وتقليل تأخر الإدخال",
+      "category": "إلكترونيات",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": 15,
+      "title": "سترة BIYLACLESEN النسائية 3 في 1 على الجليد معاطف الشتاء",
+      "price": 56.99,
+      "description": "تنويه.السترات بمقاس قياسي أمريكي، يرجى اختيار المقاس حسب ملابسك المعتادة. الخامة: 100% بوليستر؛ نسيج بطانة قابل للفصل: صوف دافئ. بطانة عملية قابلة للفصل: صديقة للبشرة، خفيفة الوزن ودافئة. سترة مبطنة بياقة واقفة، تبقيك دافئًا في الطقس البارد. جيوب بسحاب: جيبان لليدين بسحاب، وجيبان بسحاب على الصدر (يكفي للاحتفاظ بالبطاقات أو المفاتيح) وجيب مخفي بالداخل. جيوب يد بسحاب وجيب مخفي يحافظ على أغراضك آمنة. تصميم إنساني: غطاء رأس قابل للتعديل والفصل وأساور قابلة للتعديل لمنع الرياح والماء، من أجل ملاءمة مريحة. تصميم 3 في 1 قابل للفصل يوفر المزيد من الراحة، يمكنك فصل المعطف والجزء الداخلي حسب الحاجة، أو ارتداؤه معًا. إنها مناسبة لمواسم مختلفة وتساعدك على التكيف مع المناخات المختلفة",
+      "category": "ملابس نسائية",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": 16,
+      "title": "سترة موتو بايكر النسائية من الجلد الصناعي بغطاء للرأس وقابلة للإزالة من Lock and Love",
+      "price": 29.95,
+      "description": "100% بولي يوريثين (الغلاف) 100% بوليستر (البطانة) 75% بوليستر 25% قطن (سترة)، مادة جلدية صناعية للأناقة والراحة / جيبان في الأمام، سترة من الجلد الصناعي بغطاء للرأس 2 مقابل واحد، تفاصيل أزرار على الخصر / خياطة تفصيلية على الجانبين، يُغسل يدويًا فقط / لا تستخدم المبيضات / يُجفف بالتعليق / لا يُكوى",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": 17,
+      "title": "سترة المطر النسائية سترة واقية معاطف تسلق مخططة",
+      "price": 39.99,
+      "description": "عطر خفيف الوزن للرحلات أو الملابس الكاجوال---أكمام طويلة مع غطاء للرأس، تصميم خصر برباط قابل للتعديل. معطف واق من المطر مزود بأزرار وسحاب أمامي، وخطوط كاملة مبطنة، ومعطف المطر به جيبان جانبيان بحجم جيد لحمل جميع أنواع الأشياء، فهو يغطي الوركين، وغطاء الرأس كبير ولكنه لا يبالغ في ذلك. غطاء رأس مبطن بالقطن مرفق مع أربطة قابلة للتعديل تعطيها مظهرًا حقيقيًا.",
+      "category": "ملابس نسائية",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": 18,
+      "title": "قميص نسائي من MBJ بأكمام قصيرة ورقبة على شكل حرف V",
+      "price": 9.85,
+      "description": "95% رايون 5% سباندكس، مصنوع في الولايات المتحدة الأمريكية أو مستورد، لا تستخدم المبيضات، نسيج خفيف الوزن مع تمدد رائع للراحة، مضلع على الأكمام وخط الرقبة / خياطة مزدوجة على الحاشية السفلية",
+      "category": "ملابس نسائية",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": 19,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "ملابس نسائية",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 20,
+      "title": "قميص Opna النسائي ذو الأكمام القصيرة",
+      "price": 12.99,
+      "description": "95% قطن، 5% سباندكس، الميزات: كاجوال، كم قصير، طباعة حروف، رقبة على شكل حرف V، تي شيرتات عصرية، القماش ناعم وله بعض التمدد. المناسبة: كاجوال/مكتب/شاطئ/مدرسة/منزل/شارع. الموسم: الربيع، الصيف، الخريف، الشتاء.",
+      "category": "ملابس نسائية",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    }
+  ]
+}

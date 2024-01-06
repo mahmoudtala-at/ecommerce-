@@ -1,0 +1,26 @@
+nav {
+    font-size: 1rem;
+    a {
+        transition: .5s all ease-in-out;
+
+        &.nav-link {
+            font-weight: bold;
+            text-transform: capitalize;
+        }
+
+        &.active,
+        &:hover,
+        &:focus {
+            color: $main_color !important
+        }
+    }
+
+    .nav_item {
+        @include main_transition;
+
+        &:hover {
+            cursor: pointer;
+            color: $main_color
+        }
+    }
+}

@@ -1,0 +1,47 @@
+.sectionTwo {
+  .countdown {
+    color: #fff;
+    background-color: #606060;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+  }
+
+  .discountper {
+    color: #eb001b;
+    background-color: #ffe3e3;
+    padding: 0.7rem;
+    -webkit-border-radius: 25%;
+    -moz-border-radius: 25%;
+    -ms-border-radius: 25%;
+    -o-border-radius: 25%;
+    border-radius: 25%;
+  }
+  @media (max-width: 1199px) {
+    .deals-section {
+      width: 70%;
+      margin: auto;
+      text-align: center;
+      border: 0;
+    }
+    .deals-products-div {
+      width: 100% !important;
+    }
+    .deals-products {
+      justify-content: space-around !important;
+    }
+  }
+  @media (max-width: 767px) {
+    .deals-products {
+      align-items: self-end;
+    }
+  }
+  @media (max-width: 268px) {
+    .deals-products {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+}

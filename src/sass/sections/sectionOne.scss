@@ -1,0 +1,79 @@
+.sectionOne {
+  a {
+    transition: 0.5s all ease-in-out;
+    color: #ccc;
+    &.nav-link {
+      font-weight: bold;
+      text-transform: capitalize;
+    }
+    &:hover,
+    &:focus {
+      color: $dark_color;
+      background-color: #e5f1ff;
+      width: 150%;
+    }
+  }
+
+  .nav-link {
+    @include main_transition;
+    margin-bottom: 1rem;
+  }
+
+  .img-bckg {
+    background-image: url(../../../public/Banner-board-800x420\ 2.png);
+    background-size: cover;
+    background-position: 50% 0;
+  }
+  
+  .card-bg {
+    background-color: #e5f1ff;
+    display: flex;
+  }
+
+  .card-bg2 {
+    background-color: #f38332;
+    margin-top: 1rem;
+    color: #fff;
+  }
+  .card-bg3 {
+    background-color: #55bdc3;
+    margin-top: 1rem;
+    color: #fff;
+  }
+  @media (max-width:999px) {
+    .section1{
+      flex-direction: column;
+    }
+    .category {
+      display: flex;
+      flex-direction: row !important;
+      flex-wrap: wrap;
+      width: 100%;
+      gap: 1rem;
+    }
+    .section1{
+      flex-direction: column;
+
+    }
+    .img-bckg {
+      width: 100%;
+      height: 15rem;
+      margin-bottom: 1rem;
+    }
+    .cards {
+      width:100%;
+    }
+    .card {
+      align-items: center;
+      padding: 1rem;
+    }
+    
+  }
+  a {
+    &:hover,
+    &:focus {
+      color: #000;
+      width: initial;
+    }
+  }
+}

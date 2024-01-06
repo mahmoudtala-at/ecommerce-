@@ -1,0 +1,24 @@
+.sectionThree {
+  .home_section_img {
+    background-image: url(../../../public/Group\ 969.png);
+    background-size: cover;
+    background-position: center;
+  }
+  .borderHomeSection {
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+  }
+  .card-3 {
+    align-items: stretch;
+    justify-content: center;
+  }
+  .bg-coloring {
+    padding: 0;
+  }
+  .dark-con {
+    padding: 0;
+  }
+  .dark-border {
+    border: 1px solid #050505 !important;
+  }
+}

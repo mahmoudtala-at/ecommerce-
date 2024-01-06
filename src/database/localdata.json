@@ -1,0 +1,7 @@
+ [ 
+    {  "description": "Smart", "id": "1", "discount": "-25%" },
+    { "description": "`Laptops`", "id": "2", "discount": "-18%" },
+    {  "description":" `Cameras`", "id": "3", "discount": "-30%" },
+    { "description": "`Headphones", "id": "4", "discount": "-10%" },
+    {  "description": "`Phones`", "id": "5", "discount": "-15%" }
+]
